@@ -10,4 +10,8 @@ import Foundation
 
 struct RSSItem {
     
+    var title: String?
+    var pubDate: String?
+    var ratingURL: String?
+    var imgURL: String?
 }
